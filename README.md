@@ -10,7 +10,7 @@ This agent was trained and extensively tested on Super Mario Bros NES, credits f
 * The Project Demonstration (a 30 minute Oral Exam demonstrating the work undertaken and success of the Project);
 * The accompanying codebase for the agent R2D4+, with switches to turn on and off every individual component (very useful for learning what individual papers have contributed, if you are new to the field);
 * An extensive base of training videos taken throughout training of the agent on various training sets and agent component set-ups (submit an issue if you have any queries regarding run names), very useful to see how the agent learns, what it struggles with ;
-* Interactive graphs for all data gathered from (most) training runs, hosted on TensorBoard.dev ([click here](https://tensorboard.dev/experiment/EyHmIrtQSyarXQGXzVL4gw/ "TensorBoard Graphs")), alongside most of the raw TensorBoard data too to be used for future studies and learning. Once again, get in contact if you have any queries regarding run names :).
+* Interactive graphs for all data gathered from (most) training runs ([click here](https://tensorboard.dev/experiment/EyHmIrtQSyarXQGXzVL4gw/ "TensorBoard Graphs")), hosted on TensorBoard.dev, alongside most of the raw TensorBoard data too to be used for future studies and learning. Once again, get in contact if you have any queries regarding run names :).
 
 ## Abstract:
 ### Context:
