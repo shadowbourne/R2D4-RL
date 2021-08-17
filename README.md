@@ -5,7 +5,7 @@ This work was undertaken and submitted as a 3rd year Bachelors Dissertation/Proj
 This agent was trained and extensively tested on Super Mario Bros NES, credits for the enviroment go to [Christian Kauten](https://github.com/Kautenja/gym-super-mario-bros). See main paper and codebase for all references and accreditatons.
 
 ## Repository Contents:
-* The main 20 page paper, Machine Learning for Game Playing;
+* The main 20 page paper, Combining Recent Advances in Reinforcement Learning in Super Mario Bros.;
 * A 3 page Appendix of additional theory and explanations;
 * The Project Demonstration (a 30 minute Oral Exam demonstrating the work undertaken and success of the Project);
 * The accompanying codebase for the agent R2D4+, with switches to turn on and off every individual component (very useful for learning what individual papers have contributed, if you are new to the field);
