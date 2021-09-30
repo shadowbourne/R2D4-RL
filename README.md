@@ -1,6 +1,7 @@
 # Recurrent Replay Deeper Denser Distributed DQN+ (Reinforcement Learning):
 
 This work was undertaken and submitted as a 3rd year Bachelors Dissertation/Project as part of the degree of Msci Natural Sciences to the Board of Examiners in the Department of Computer Sciences, Durham University, and is licensed accordingly. 
+## Grade: 1st - 92
 
 This agent was trained and extensively tested on Super Mario Bros NES, credits for the enviroment go to [Christian Kauten](https://github.com/Kautenja/gym-super-mario-bros). See main paper and codebase for all references and accreditatons.
 
