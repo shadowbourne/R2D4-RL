@@ -13,6 +13,13 @@ This agent was trained and extensively tested on Super Mario Bros NES, credits f
 * An extensive base of training videos taken throughout training of the agent on various training sets and agent component set-ups (submit an issue if you have any queries regarding run names), very useful to see how the agent learns, what it struggles with ;
 * Interactive graphs for all data gathered from (most) training runs ([click here](https://tensorboard.dev/experiment/EyHmIrtQSyarXQGXzVL4gw/ "TensorBoard Graphs")), hosted on TensorBoard.dev, alongside most of the raw TensorBoard data too to be used for future studies and learning. Once again, get in contact if you have any queries regarding run names :).
 
+## Demo (taken from Final Presentation):
+  > ![Gifdemo6](https://user-images.githubusercontent.com/18665030/136659042-7b071648-e77a-4fef-9757-9160d22ae2b0.gif)
+  > 
+  > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7, and was taken from the project's [final presentation](https://github.com/shadowbourne/R2D4-RL/blob/main/Demonstration%20Final%20Presentation.pptx).
+  > 
+  > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
+
 ## Abstract:
 ### Context:
 A  variety  of,  predominantly  Reinforcement  Learning  (RL)  based,  approaches have been applied over the years to creating an intelligent agent able to play the platformer game Super Mario Bros (SMB), however,  the majority are heavily reliant upon expert feature-engineering and low-dimensional state-encodings to make learning tractable without the use of Neural Networks.  This application has been largely untouched by any recent state-of-the-art RL contributions.
@@ -25,9 +32,3 @@ The final agent is highly proficient, surpassing all previously surveyed agents,
 ### Conclusions:
 All surveyed contributions, apart from PER and IQN, are shown to be complementary in the context of training a RL agent to play SMB, which provides evidence that further investigation and combination of additional contributions would prove beneficial to the development of the field of RL. The novel use of dropout to boost generalization power and sample-efficiency is especially promising. Overall, deep RL in its current state can produce excellent self-teaching intelligent agents and is still a field of much promise for the future.
 
-## Demo (taken from Final Presentation):
-  > ![Gifdemo6](https://user-images.githubusercontent.com/18665030/136659042-7b071648-e77a-4fef-9757-9160d22ae2b0.gif)
-  > 
-  > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7, and was taken from the project's [final presentation](https://github.com/shadowbourne/R2D4-RL/blob/main/Demonstration%20Final%20Presentation.pptx).
-  > 
-  > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
