@@ -24,3 +24,10 @@ After surveying the field, a Recurrent Replay Deeper Denser Distributed DQN+ (R2
 The final agent is highly proficient, surpassing all previously surveyed agents, and converges to or surpasses the skill and speed of an expert on a variety of level difficulties and training-set sizes. The agent also generalizes impressively well to levels it has never been trained on.
 ### Conclusions:
 All surveyed contributions, apart from PER and IQN, are shown to be complementary in the context of training a RL agent to play SMB, which provides evidence that further investigation and combination of additional contributions would prove beneficial to the development of the field of RL. The novel use of dropout to boost generalization power and sample-efficiency is especially promising. Overall, deep RL in its current state can produce excellent self-teaching intelligent agents and is still a field of much promise for the future.
+
+## Demo (taken from Final Presentation):
+  > ![Gifdemo6](https://user-images.githubusercontent.com/18665030/136659042-7b071648-e77a-4fef-9757-9160d22ae2b0.gif)
+  > 
+  > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7, and was taken from the project's [final presentation](https://github.com/shadowbourne/R2D4-RL/blob/main/Demonstration%20Final%20Presentation.pptx).
+  > 
+  > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
