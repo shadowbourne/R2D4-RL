@@ -5,14 +5,6 @@ This work was undertaken and submitted as a 3rd year Bachelors Dissertation/Proj
 
 This agent was trained and extensively tested on Super Mario Bros NES, credits for the enviroment go to [Christian Kauten](https://github.com/Kautenja/gym-super-mario-bros). See main paper and codebase for all references and accreditatons.
 
-## Repository Contents:
-* The main 20 page paper, Combining Recent Advances in Reinforcement Learning for Super Mario Bros.;
-* A 3 page Appendix of additional theory and explanations;
-* The Project Demonstration (a 30 minute Oral Exam demonstrating the work undertaken and success of the Project);
-* The accompanying codebase for the agent R2D4+, with switches to turn on and off every individual component (very useful for learning what individual papers have contributed, if you are new to the field);
-* An extensive base of training videos taken throughout training of the agent on various training sets and agent component set-ups (submit an issue if you have any queries regarding run names), very useful to see how the agent learns, what it struggles with ;
-* Interactive graphs for all data gathered from (most) training runs ([click here](https://tensorboard.dev/experiment/EyHmIrtQSyarXQGXzVL4gw/ "TensorBoard Graphs")), hosted on TensorBoard.dev, alongside most of the raw TensorBoard data too to be used for future studies and learning. Once again, get in contact if you have any queries regarding run names :).
-* 
 ## Demo video (taken from my [portfolio page](https://github.com/shadowbourne)):
   > ![Gifdemo6](https://user-images.githubusercontent.com/18665030/136659042-7b071648-e77a-4fef-9757-9160d22ae2b0.gif)
   > 
@@ -20,7 +12,15 @@ This agent was trained and extensively tested on Super Mario Bros NES, credits f
   > 
   > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
 
-## Abstract:
+## Repository Contents:
+* The main 20 page paper, Combining Recent Advances in Reinforcement Learning for Super Mario Bros.;
+* A 3 page Appendix of additional theory and explanations;
+* The Project Demonstration (a 30 minute Oral Exam demonstrating the work undertaken and success of the Project);
+* The accompanying codebase for the agent R2D4+, with switches to turn on and off every individual component (very useful for learning what individual papers have contributed, if you are new to the field);
+* An extensive base of training videos taken throughout training of the agent on various training sets and agent component set-ups (submit an issue if you have any queries regarding run names), very useful to see how the agent learns, what it struggles with;
+* Interactive graphs for all data gathered from (most) training runs ([click here](https://tensorboard.dev/experiment/EyHmIrtQSyarXQGXzVL4gw/ "TensorBoard Graphs")), hosted on TensorBoard.dev, alongside most of the raw TensorBoard data too to be used for future studies and learning. Once again, get in contact if you have any queries regarding run names :).
+
+## Paper Abstract:
 ### Context:
 A  variety  of,  predominantly  Reinforcement  Learning  (RL)  based,  approaches have been applied over the years to creating an intelligent agent able to play the platformer game Super Mario Bros (SMB), however,  the majority are heavily reliant upon expert feature-engineering and low-dimensional state-encodings to make learning tractable without the use of Neural Networks.  This application has been largely untouched by any recent state-of-the-art RL contributions.
 ### Aims:
