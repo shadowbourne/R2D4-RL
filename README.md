@@ -11,6 +11,11 @@ This agent was trained and extensively tested on Super Mario Bros NES, credits f
   > During my Dissertation, I surveyed the field of Reinforcement Learning and spent my project investigating how best to combine many recent advances from Reinforcement Learning. In doing so, I created an AI agent capable of teaching itself to play the game Super Mario Bros. to superhuman level, achieving new state-of-the-art performance within the field. This demo shows the agent playing Worlds 5 and 7, and was taken from the project's [final presentation](https://github.com/shadowbourne/R2D4-RL/blob/main/Demonstration%20Final%20Presentation.pptx).
   > 
   > <img src="https://user-images.githubusercontent.com/18665030/136562342-ef434a45-5ffd-4d7c-858e-ceee3894eec4.png" width="48" title="Mario"/>
+## Comparison of R2D4+ with other RL models:
+> ![image](https://user-images.githubusercontent.com/18665030/139477139-32e93895-45e0-4c12-9e77-3225cdfd99b9.png)
+> This plot shows training scores, out-of-sample-level evaluation scores (leveles the model has never been trained on) and episodic completion rates over training between our model R2D4+ and various models taken from RL literature. 
+> 
+> **Note:** Variations of R2D4+ that performed considerably better than the R2D4+ baseline shown here were also developed in the paper (by 50%+), therefore our contributions are even more impressive than they seem from this graph.
 
 ## Repository Contents:
 * The main 20 page paper, Combining Recent Advances in Reinforcement Learning for Super Mario Bros.;
